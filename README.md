@@ -24,6 +24,6 @@ To build the project. Typescript to js
 
 Use pm2 to start the app in production mode.
 
-## Learn stop
+### npm run stop
 
 Stop pm2 process
