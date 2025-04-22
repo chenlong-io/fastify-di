@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "watch": ["src"],
+  "ext": "ts,json",
+  "ignore": ["src/**/*.error.log"],
+  "exec": "ts-node -r tsconfig-paths/register src/app.ts"
+}
